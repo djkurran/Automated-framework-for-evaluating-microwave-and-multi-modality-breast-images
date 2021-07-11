@@ -20,7 +20,7 @@ Figure 1. Overview of automated workflow for evaluating microwave and multi-moda
 
 ### Supplementary Materials
 
-A comprehensive [repository](https://github.com/djkurran/Automated-framework-for-evaluating-microwave-and-multi-modality-breastImages/wiki) provides detailed results for all cases presented in the paper.
+A comprehensive [repository](https://github.com/djkurran/Automated-framework-for-evaluating-microwave-and-multi-modality-breast-images/wiki) provides detailed results for all cases presented in the paper.
 
 ## Citing Manuscript
 
