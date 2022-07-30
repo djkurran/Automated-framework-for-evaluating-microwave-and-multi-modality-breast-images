@@ -24,6 +24,6 @@ A comprehensive [repository](https://github.com/djkurran/Automated-framework-for
 
 ## Citing Manuscript
 
-D. Kurrant, M. Omer, E. Fear. Automated framework for evaluating microwave and multi-modality breast images. IEEE Journal of Electromagnetics, RF and Microwaves in Medicine and Biology, 2021 (Submitted for review).
+D. Kurrant, M. Omer, E. Fear. Automated framework for evaluating microwave and multi-modality breast images. IEEE Journal of Electromagnetics, RF and Microwaves in Medicine and Biology, 2022 (Submitted for review).
 
 ***
