@@ -13,7 +13,7 @@ Figure 1. Overview of automated workflow for evaluating microwave and multi-moda
 
 ### Overview
 
-An image analysis framework is comprised of an automated workflow for evaluating microwave and multi-modality breast images. It is applied to pairs of images: a test image and a reference image. The automated workflow compares the images and is summarized in figure 1. A suite of metrics used to compare the images are described in detail in section 1. The power of the automated approach and the utility of the metrics is demonstrated with a series of examples presented in sections 2 to 8. Each example provides the reference model, test model, results of applying the segmentation, and application of the appropriate metrics.
+An image analysis framework is comprised of an automated workflow for evaluating microwave and multi-modality breast images. It is applied to pairs of images: a test image and a reference image. The automated workflow compares the images and is summarized in figure 1. A suite of metrics used to compare the images are described in detail in the supporting [documentation](https://github.com/djkurran/Automated-framework-for-evaluating-microwave-and-multi-modality-breast-images/wiki). The power of the automated approach and the utility of the metrics is demonstrated with a series of examples. Each example provides the reference model, test model, results of applying the segmentation, and application of the appropriate metrics.
 
 ### Take-home messages
 
