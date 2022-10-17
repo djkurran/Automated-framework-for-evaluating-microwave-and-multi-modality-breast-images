@@ -2,16 +2,20 @@
 
 ***
 
-## Automated framework for evaluating microwave and multi-modality breast images
-
-### Abstract
+## Abstract
 The growing field of medical microwave imaging has resulted in numerous approaches to image reconstruction.  However, comparison and interpretation of results is challenging.  This is in part due to the variety of metrics used to analyze images, and the different approaches to extracting key quantities from images.  This also complicates comparison of results obtained by different groups, which is of interest given the development of standardized test phantoms.  The lack of a cohesive approach to image evaluation motivated our development of a framework for consistent analysis of microwave images, which is extended in this paper to tackle different types of images. Specifically, an unsupervised machine learning approach to image segmentation is successfully applied to a range of images: microwave tomography, radar and ultrasound images that are used to generate prior information for microwave reconstructions. The segmented images are analyzed with a suite of metrics designed to compare sets of imaging results, or images to a known model.   Modifications required to enable analysis of 3D radar images, as well as multi-modality results, are highlighted.  Examples are presented to illustrate the power of this tool for analyzing radar images, and for comparing images created with multiple modalities and algorithms.   This flexible, quantitative tool for image analysis supports translation of microwave imaging to the clinic by providing a clear and consistent approach to evaluating image quality. 
 
-### Overview and take-home messages
+## Overview and take-home messages
 
 ![](https://github.com/djkurran/Automated-framework-for-evaluating-microwave-and-multi-modality-breast-images/blob/main/overview.png)
 
 Figure 1. Overview of automated workflow for evaluating microwave and multi-modality breast images.
+
+### Overview
+
+An image analysis framework is comprised of an automated workflow for evaluating microwave and multi-modality breast images. It is applied to pairs of images: a test image and a reference image. The automated workflow compares the images and is summarized in figure 1. A suite of metrics used to compare the images are described in detail in section 1. The power of the automated approach and the utility of the metrics is demonstrated with a series of examples presented in sections 2 to 8. Each example provides the reference model, test model, results of applying the segmentation, and application of the appropriate metrics.
+
+### Take-home messages
 
 1.	Microwave imaging techniques, including a growing body of work in multi-modality imaging, require objective methods to evaluate and compare results.
 2.	An unsupervised machine learning approach provides a consistent framework for analyzing multiple types of images, specifically extracting regions of interest corresponding to different tissue types.
