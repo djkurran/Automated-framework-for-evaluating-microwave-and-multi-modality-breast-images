@@ -24,7 +24,7 @@ An image analysis framework is comprised of an automated workflow for evaluating
 
 ### Supplementary Materials
 
-Support documentation [repository](https://github.com/djkurran/Automated-framework-for-evaluating-microwave-and-multi-modality-breast-images/wiki/Introduction) provides detailed results for all cases presented in the paper.
+[Support documentation](https://github.com/djkurran/Automated-framework-for-evaluating-microwave-and-multi-modality-breast-images/wiki/Introduction) provides detailed results for all cases presented in the paper.
 
 ## Citing Manuscript
 
