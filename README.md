@@ -26,7 +26,7 @@ Images are segmented into regions dominated by a tissue type. Quantitative infor
 
 ### Supplementary Materials
 
-[Support documentation](https://github.com/djkurran/Automated-framework-for-evaluating-microwave-and-multi-modality-breast-images/wiki/0.-Introduction) provides detailed results for all cases presented in the paper.
+[Support documentation](https://github.com/djkurran/Automated-framework-for-evaluating-microwave-and-multi-modality-breast-images/wiki) provides detailed results for all cases presented in the paper.
 
 ## Citing Manuscript
 
