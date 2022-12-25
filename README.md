@@ -20,7 +20,7 @@ Images are segmented into regions dominated by a tissue type. Quantitative infor
 ### Take-home messages
 
 1. An automated image analysis workflow is presented that extracts qualitative and quantitative information from regions, objects, and responses within images. Images may be acquired from a range of modalities (tomography, radar, ultrasound, multimodality), and are processed in a consistent manner to extract information about an experiment conducted by a researcher.
-2. The workflow is applied to pairs of images: a test, and a reference image.  The images are then partitioning into regions. Differences between image pairs are evaluated by comparing regions based on shape, size, and location within an image. 
+2. The workflow is applied to pairs of images: a test, and a reference image.  The images are then partitioning into regions. Differences between image pairs are evaluated by comparing regions based on shape, size, and location. 
 3. Properties within segmented regions of the test image are compared to the corresponding reference region to measure a change in response or the ability of an algorithm to reconstruct a tissue type. 
 4. The quantitative information extracted from results assists researchers to make inferences related to a variable change, a data acquisition modification, or a reconstruction algorithm enhancement, and to facilitate the comparison of results obtained by different research groups.
 
