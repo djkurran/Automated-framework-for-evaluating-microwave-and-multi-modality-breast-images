@@ -22,7 +22,7 @@ The objective is to furnish a workflow that standardizes the processing and anal
 
 Images are segmented into regions dominated by a tissue type. Quantitative information is then extracted from these regions. This is accomplished by comparing the test image to the reference. Discrepancies are measured by comparing regions based on shape, size, geometric features, and location within an image. This is carried out by the *Tissue interface analysis*, and *geometric analysis* components of the workflow. Moreover, properties within segmented regions of the test image are compared to the corresponding reference region to evaluate a change in response or the ability of an algorithm to reconstruct a tissue type. This is prescribed by the *Analysis of properties* stage of the workflow. The properties contained within the segmented regions may be dielectric properties associated with a tissue type (microwave tomography), backscattered energy related to a dominant scatterer (microwave radar), or scattering that may arise due to the skin surface or the presence of dense tissue (qualitative ultrasound).
 
-### Take-home messages
+### Take-home messages 
 
 1. An automated image analysis workflow is presented that extracts quantitative information from regions, objects, and responses within images. The information is used for both quantitative analysis and qualitative interpretation of images.
 2. Images are acquired from a range of modalities including tomography, radar, ultrasound, and multi-modality approaches. The workflow is applied to image pairs: a test, and a reference.  Images are then partitioning into regions. Differences between the test-reference image pair are measured by comparing regions based on shape, size, geometric features, and location. 
@@ -36,6 +36,6 @@ Images are segmented into regions dominated by a tissue type. Quantitative infor
 
 ## Citing Manuscript
 
-D. Kurrant, M. Omer, E. Fear. Automated framework for evaluating microwave and multi-modality breast images. IEEE Journal of Electromagnetics, RF and Microwaves in Medicine and Biology, 2023 (Submitted for review).
+D. Kurrant, M. Omer, E. Fear. Automated workflow for evaluating microwave and multi-modality breast images. IEEE Journal of Electromagnetics, RF and Microwaves in Medicine and Biology, 2023 (Submitted for review).
 
 ***
