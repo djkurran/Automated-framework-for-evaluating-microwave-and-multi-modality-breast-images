@@ -36,6 +36,6 @@ Images are segmented into regions dominated by a tissue type. Quantitative infor
 
 ## Citing Manuscript
 
-D. Kurrant, M. Omer, E. Fear. Automated framework for evaluating microwave and multi-modality breast images. IEEE Journal of Electromagnetics, RF and Microwaves in Medicine and Biology, 2022 (Submitted for review).
+D. Kurrant, M. Omer, E. Fear. Automated framework for evaluating microwave and multi-modality breast images. IEEE Journal of Electromagnetics, RF and Microwaves in Medicine and Biology, 2023 (Submitted for review).
 
 ***
