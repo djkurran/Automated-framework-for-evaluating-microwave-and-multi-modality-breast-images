@@ -11,7 +11,7 @@ The emergence and subsequent expansion of the field of medical microwave imaging
  ![](https://github.com/djkurran/Automated-framework-for-evaluating-microwave-and-multi-modality-breast-images/blob/main/overview.png)
 This is an HTML comment in Markdown -->
 <p align="center">
-  <img width="800" height="500" src="https://github.com/djkurran/Automated-framework-for-evaluating-microwave-and-multi-modality-breast-images/blob/main/overview.png">
+  <img width="1000" height="700" src="https://github.com/djkurran/Automated-framework-for-evaluating-microwave-and-multi-modality-breast-images/blob/main/overview.png">
 </p>
 
 Figure 1. Overview of automated workflow to evaluate microwave and multi-modality breast images.
